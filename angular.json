@@ -57,7 +57,10 @@
             ],
             "optimization": {
               "fonts": false
-            }
+            },
+            "polyfills": [
+              "zone.js"
+            ]
           },
           "configurations": {
             "production": {
